@@ -2,5 +2,5 @@
   "name": "USDT",
   "symbol": "USDT",
   "description": "Tether Coin",
-  "image": "https://gateway.pinata.cloud/ipfs/bafkreig37sthgyml66756peqamxmiqccvp2axef7wfjmcondwk6wttey2q"
+  "image": "https://raw.githubusercontent.com/t3rmus/tether/main/tether.png"
 }
