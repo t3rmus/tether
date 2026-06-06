@@ -1,6 +1,6 @@
 {
-  "name": "USDT",
+  "name": "Tether USD",
   "symbol": "USDT",
-  "description": "Tether Coin",
-  "image": "https://raw.githubusercontent.com/t3rmus/tether/main/tether.png"
+  "description": "Tether Coin Test",
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreibn4y6llleughtp5pgu37lve7mymvcffpo5i2h6iw4t4iwo6z5ocu"
 }
